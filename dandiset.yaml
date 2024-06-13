@@ -10,18 +10,23 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Devergnas, Annaelle (2024) Seizure onset and offset pattern determine the
-  entrainment of the cortex and substantia nigra in the NHP model of TL seizure (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
+citation: Devergnas, Annaelle; Connolly Mark (2024) Seizure onset and offset pattern
+  determine the entrainment of the cortex and substantia nigra in the NHP model of
+  TL seizure (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
 contributor:
 - affiliation: []
   email: adeverg@emory.edu
+  identifier: 0000-0002-0461-6422
   includeInCitation: true
   name: Devergnas, Annaelle
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-- {}
+- includeInCitation: true
+  name: Connolly Mark
+  roleName:
+  - dcite:Author
+  schemaKey: Person
 dateCreated: '2024-06-13T17:58:43.700749+00:00'
 description: 'Electrophysiological recording from the substantia nigra during temporal
   lobe seizures induced in 2 non-human primate.  '
@@ -41,8 +46,7 @@ manifestLocation:
 name: Seizure onset and offset pattern determine the entrainment of the cortex and
   substantia nigra in the NHP model of TL seizure
 protocol: []
-relatedResource:
-- {}
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
