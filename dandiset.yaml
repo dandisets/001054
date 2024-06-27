@@ -10,9 +10,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Devergnas, Annaelle; Connolly Mark (2024) Seizure onset and offset pattern
-  determine the entrainment of the cortex and substantia nigra in the NHP model of
-  TL seizure (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
+citation: Devergnas, Annaelle; Connolly Mark (2024) Hippocampal stimulation during
+  temporal lobe seizure (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
 contributor:
 - affiliation: []
   email: adeverg@emory.edu
@@ -28,8 +27,16 @@ contributor:
   - dcite:Author
   schemaKey: Person
 dateCreated: '2024-06-13T17:58:43.700749+00:00'
-description: 'Electrophysiological recording from the substantia nigra during temporal
-  lobe seizures induced in 2 non-human primate.  '
+description: 'Four non-human primates were used for this study in two contemporaneous
+  cohorts. One cohort (n=3 hemispheres) was implanted with the Medtronic RC+S stimulation
+  (GIN cohort) and recording system connected to two 4-contact ring electrodes to
+  evaluate three unilateral stimulation patterns: 7 Hz Ring ADMES, 20 Hz Dual Ring,
+  and 125 Hz Dual Ring (analog of clinical stimulation). In an additional cohort (EPC
+  cohort, n=2), two 12-contact segmented electrodes were implanted in the right hippocampus
+  and connected to an externalized recording and stimulation system to allow more
+  flexibility in the stimulation pattern. In this second cohort, 4 variations of stimulation
+  were evaluated (7 Hz Full ADMES, 7 Hz Ring ADMES, 31 Hz Wide Ring, and 31 Hz Dual
+  Ring).  '
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
@@ -37,21 +44,19 @@ ethicsApproval:
   schemaKey: EthicsApproval
 id: DANDI:001054/draft
 identifier: DANDI:001054
-keywords:
-- Basal ganglia, temporal lobe seizure, substantia nigra
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001054/versions/draft/assets/
-name: Seizure onset and offset pattern determine the entrainment of the cortex and
-  substantia nigra in the NHP model of TL seizure
+name: Hippocampal stimulation during temporal lobe seizure
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget:
-- substantia nigra, primary somatosensory cortex and hippocampus
+- Evaluating ADMES hippocampal stimulation for temporal lobe seizure
 url: https://dandiarchive.org/dandiset/001054/draft
 version: draft
 wasGeneratedBy: []
