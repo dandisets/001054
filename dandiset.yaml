@@ -10,8 +10,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Devergnas, Annaelle; Connolly Mark (2024) Hippocampal stimulation during
-  temporal lobe seizure (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
+citation: Devergnas, Annaelle (2024) Hippocampal stimulation during temporal lobe
+  seizure (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
 contributor:
 - affiliation: []
   email: adeverg@emory.edu
@@ -20,11 +20,6 @@ contributor:
   name: Devergnas, Annaelle
   roleName:
   - dcite:ContactPerson
-  schemaKey: Person
-- includeInCitation: true
-  name: Connolly Mark
-  roleName:
-  - dcite:Author
   schemaKey: Person
 dateCreated: '2024-06-13T17:58:43.700749+00:00'
 description: 'Four non-human primates were used for this study in two contemporaneous
@@ -44,7 +39,8 @@ ethicsApproval:
   schemaKey: EthicsApproval
 id: DANDI:001054/draft
 identifier: DANDI:001054
-keywords: []
+keywords:
+- temporal lobe seizure, asynchronous stimulation, hippocampal stimulation
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
