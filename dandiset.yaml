@@ -19,8 +19,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 27268894336
-  numberOfFiles: 110
+  numberOfBytes: 28973606241
+  numberOfFiles: 117
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -52,11 +52,7 @@ description: 'Four non-human primates were used for this study in two contempora
   flexibility in the stimulation pattern. In this second cohort, 4 variations of stimulation
   were evaluated (7 Hz Full ADMES, 7 Hz Ring ADMES, 31 Hz Wide Ring, and 31 Hz Dual
   Ring).  '
-ethicsApproval:
-- contactPoint:
-    schemaKey: ContactPoint
-  identifier: PROTO201700590
-  schemaKey: EthicsApproval
+ethicsApproval: []
 id: DANDI:001054/draft
 identifier: DANDI:001054
 keywords:
