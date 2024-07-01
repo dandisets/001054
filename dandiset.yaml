@@ -31,7 +31,7 @@ assetsSummary:
   - ElectricalSeries
   - ElectrodeGroup
 citation: Devergnas, Annaelle (2024) Hippocampal stimulation during temporal lobe
-  seizure (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001054/draft
+  seizure (Version 0.240701.1903) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001054/0.240701.1903
 contributor:
 - affiliation: []
   email: adeverg@emory.edu
@@ -53,15 +53,16 @@ description: 'Four non-human primates were used for this study in two contempora
   flexibility in the stimulation pattern. In this second cohort, 4 variations of stimulation
   were evaluated (7 Hz Full ADMES, 7 Hz Ring ADMES, 31 Hz Wide Ring, and 31 Hz Dual
   Ring).  '
+doi: 10.48324/dandi.001054/0.240701.1903
 ethicsApproval: []
-id: DANDI:001054/draft
+id: DANDI:001054/0.240701.1903
 identifier: DANDI:001054
 keywords:
 - temporal lobe seizure, asynchronous stimulation, hippocampal stimulation
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001054/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001054/0.240701.1903/assets.yaml
 name: Hippocampal stimulation during temporal lobe seizure
 protocol: []
 publishedBy:
@@ -82,6 +83,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget:
 - Evaluating ADMES hippocampal stimulation for temporal lobe seizure
-url: https://dandiarchive.org/dandiset/001054/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001054/0.240701.1903
+version: 0.240701.1903
 wasGeneratedBy: []
